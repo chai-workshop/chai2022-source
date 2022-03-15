@@ -22,4 +22,4 @@ jobs:
         HUGO_VERSION: 0.94.0
         TARGET_REPO: chai-workshop/chai-workshop.github.io
         TOKEN: ${{ secrets.GH_PAGES_DEPLOY }}
-	GO_VERSION: 1.17.8
+        GO_VERSION: 1.17.8
