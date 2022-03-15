@@ -21,4 +21,4 @@ jobs:
       env:
         HUGO_VERSION: 0.94.0
         TARGET_REPO: chai-workshop/chai-workshop.github.io
-        TOKEN: ${{ secrets.TOKEN }}
+        TOKEN: ${{ secrets.GH_PAGES_DEPLOY }}
