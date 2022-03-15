@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: ocean
   theme_night:
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} CHAI. This work is licensed under {license}'
+    notice: '© {year} CHAI. This work is licensed under {license}. Chai icons created by [fjstudio - Flaticon]("https://www.flaticon.com/free-icons/chai)'
     license:
       enable: true
       allow_derivatives: false

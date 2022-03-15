@@ -17,5 +17,5 @@ main:
     url: organizers
     weight: 40
   - name: Schedule
-    url: schedul
+    url: schedule
     weight: 50
