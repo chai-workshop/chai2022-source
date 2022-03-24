@@ -17,5 +17,3 @@ design:
 - **June 23-25**: IJCAI Workshops (exact date to be determined)
 
 Note: **all deadlines are UTC-12**
-
-Submission instructions available [here](submissions). 
