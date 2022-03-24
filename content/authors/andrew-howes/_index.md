@@ -6,12 +6,9 @@ title: Andrew Howes
 superuser: false
 
 # Role/position
-role: Professor in Computer Science
+role: Professor in Computer Science, Birmingham University, United Kingdom
 
 # Organizations/Affiliations
-organizations:
-- name: Birmingham University, United Kingdom
-  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 

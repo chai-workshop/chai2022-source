@@ -6,12 +6,10 @@ title: Nicolas Fay
 superuser: false
 
 # Role/position
-role: Associate Professor in Cognitive Sciences
+role: Associate Professor in Cognitive Sciences, University of Western Australia
 
 # Organizations/Affiliations
-organizations:
-- name: The University of Western Australia
-  url: ""
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: Lorem ipsum

@@ -6,12 +6,9 @@ title: Antti Oulasvirta
 superuser: false
 
 # Role/position
-role: Professor in Human-Computer Interaction
+role: Professor in Human-Computer Interaction, Aalto University, Finland
 
 # Organizations/Affiliations
-organizations:
-- name: Aalto University, Finland
-  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 interests:

@@ -6,12 +6,9 @@ title: Jennifer Renoux
 superuser: true
 
 # Role/position
-role: Researcher in Artificial Intelligence
+role: Researcher in Artificial Intelligence, Örebro University, Sweden
 
 # Organizations/Affiliations
-organizations:
-- name: Örebro University
-  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Lorem ipsum
@@ -56,6 +53,16 @@ user_groups:
 - Organizers
 ---
 
-<br>
-<br>
-Jennifer Renoux is a researcher in Human-Machine Teams and Human-Machine Communication at the Cognitive Robotics System lab, at Örebro University, Sweden. Prior to joining Örebro University, she was a Ph.D. student at the University of Caen Normandy and defended anda Ph.D. thesis in 2015. 
+I am a researcher in  in Human-Machine Teams and Human-Machine Communication at the Cognitive Robotics System lab, at Örebro University, Sweden. Humans and artificial systems have different capabilities, both in perception and action. Thus I strongly believe that autonomous systems have a tremendous potential to make human’s life better and easier, especially when working with them. For this reason, my primary research interest lies in collaborative AI and human-machine teams, especially human-machine communication. Some of the (many) questions I am currently asking myself are:
+
+* How can an artificial system communicate efficiently to a human partner?
+
+* How can an artificial system adapt to each humans individuality when it communicates?
+
+* Can efficient communication improve human’s comfort and trust toward intelligent systems?
+
+* How does efficient communication impact the performance of a human-machine team? 
+
+Prior to joining Örebro University, I obtained in 2015 my Ph.D. from the University of Caen Normandy (France). I also hold a Master of Engineering in Computer Science from the National Institute of Applied Sciences (France) and a Master of Science in Artificial Intelligence and Decision Making from the University Pierre and Marie Curie (France). 
+
+

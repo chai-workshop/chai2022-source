@@ -4,18 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Important Dates
-    url: dates
+  - name: Home
+    url: /#title
     weight: 10
-  - name: Submissions
-    url: submissions
+  - name: Call for Contributions
+    url: /#call-papers
     weight: 20
-  - name: Invited Speakers
-    url: speakers
+  - name: Important Dates
+    url: /#dates
     weight: 30
-  - name: Organizers
-    url: organizers
+  - name: Submissions
+    url: /#submissions
     weight: 40
-  - name: Schedule
-    url: schedule
+  - name: Invited Speakers
+    url: /#speakers
     weight: 50
+  - name: Schedule
+    url: /#schedule
+    weight: 60
+  - name: Organizers
+    url: /#organizers
+    weight: 70

@@ -6,12 +6,10 @@ title: Mark Riedl
 superuser: false
 
 # Role/position
-role: Professor in Artificial Intelligence
+role: Professor in Artificial Intelligence, Georgia Tech, USA
 
 # Organizations/Affiliations
-organizations:
-- name: Georgia Tech, USA
-  url: ""
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: Lorem ipsum
