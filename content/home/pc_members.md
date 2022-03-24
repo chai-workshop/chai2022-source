@@ -13,8 +13,6 @@ design:
 ---
 <br />
 
-**Neziha Akalin**, Örebro University, Sweden
-
 **Katrien Beuls**, Vrije University, Belgium
 
 **Mohamadrez Faridghasemnia**, Örebro University, Sweden
@@ -24,8 +22,6 @@ design:
 **Lucas Morillo-Mendez**, Örebro University,Sweden
 
 **Delphine Potdevin**, DAVI & Paris-Saclay University, France
-
-**Brian Ravenet**, LISN, France
 
 **Marta Romeo**, University of Manchester, United Kingdom
 
