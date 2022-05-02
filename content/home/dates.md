@@ -11,7 +11,7 @@ design:
   columns: '2'
 ---
 
-- **May 13, 2022:** Paper Due Date
+- ~~**May 13, 2022**~~ **May 20, 2022:** Paper Due Date
 - **June 3, 2022:** Notification of Paper Acceptance
 - **June 17, 2022:** Camera-ready papers due
 - **June 23-25**: IJCAI Workshops (exact date to be determined)
