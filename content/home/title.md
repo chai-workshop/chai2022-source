@@ -23,6 +23,6 @@ design:
 **Welcome to the Communication in Human-AI Interaction Workshop**. 
 
 <small>
-The goal of this workshop is to bring together experts from AI, HCI, and Cognitive Sciences to explore and understand the specificities and characteristics of communication in human-AI interactions, as well as the salient principles, methods, and theories one has to consider to build meaningful human-AI communication systems. 
+The goal of this one-day workshop is to bring together experts from AI, HCI, and Cognitive Sciences to explore and understand the specificities and characteristics of communication in human-AI interactions, as well as the salient principles, methods, and theories one has to consider to build meaningful human-AI communication systems. 
 </small>
 
