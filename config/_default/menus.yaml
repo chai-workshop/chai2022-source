@@ -13,8 +13,8 @@ main:
   - name: Important Dates
     url: /#dates
     weight: 30
-  - name: Submissions
-    url: /#submissions
+  - name: Accepted Papers
+    url: /#accepted-papers
     weight: 40
   - name: Invited Speakers
     url: /#speakers
