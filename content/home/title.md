@@ -7,8 +7,9 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  CHAI Workshop  
-  @ IJCAI-22
+  CHAI Workshop
+  
+  July 24, 2022
 hero_media: ijcai.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.

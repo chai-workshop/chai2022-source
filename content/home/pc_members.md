@@ -23,6 +23,8 @@ design:
 
 **Delphine Potdevin**, DAVI & Paris-Saclay University, France
 
+**Brian Ravenet**, LISN, France
+
 **Marta Romeo**, University of Manchester, United Kingdom
 
 **Nicolas Sabouret**, LISN,  France

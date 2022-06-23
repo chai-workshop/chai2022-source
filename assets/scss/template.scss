@@ -7,3 +7,25 @@
 .cta-group {
   justify-content: center;
 }
+
+table {
+    width: 100%;
+}
+tr:nth-child(even) {
+    background-color: #f7f8ff;
+}
+
+tr:nth-child(odd) {
+    background-color: #e0e5f9;
+}
+
+thead th {
+    background-color: #3f51b5;
+    color: white;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+

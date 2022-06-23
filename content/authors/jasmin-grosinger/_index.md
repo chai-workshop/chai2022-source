@@ -40,6 +40,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Organizers
+
+weight: 20
 ---
 <br>
 <br>

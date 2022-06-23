@@ -51,6 +51,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Organizers
+
+weight: 10
 ---
 
 I am a researcher in  in Human-Machine Teams and Human-Machine Communication at the Cognitive Robotics System lab, at Örebro University, Sweden. Humans and artificial systems have different capabilities, both in perception and action. Thus I strongly believe that autonomous systems have a tremendous potential to make human’s life better and easier, especially when working with them. For this reason, my primary research interest lies in collaborative AI and human-machine teams, especially human-machine communication. Some of the (many) questions I am currently asking myself are:
