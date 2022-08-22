@@ -67,3 +67,7 @@ I earned my PhD in Psychology in 2000 (University of Glasgow, Scotland). After w
 - Information Transmission
 - Cultural Evolution
 - Language Evolution
+
+**Talk Slides**
+
+Click [here](/uploads/fay-slides.pdf) to download the slides

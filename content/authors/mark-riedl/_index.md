@@ -72,3 +72,7 @@ Dr. Riedl earned a Ph.D. degree in 2004 from North Carolina State University, wh
 - Intelligent Media
 - Computational Creativity
 - Machinima
+
+**Talk Slides**
+
+Click [here](/uploads/riedl-slides.pdf) to download the slides

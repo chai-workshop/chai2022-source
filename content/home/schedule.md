@@ -15,7 +15,7 @@ design:
 
 | Time | Authors | Title| 
 |:----:|:---------:|:------:|
-| **09:00 - 10:00** | **Invited Speaker : Nicolas Fay** | **[The role of iconicity and embodiment to the evolution of human communication](author/nicolas-fay)** |
+| **09:00 - 10:00** | **Invited Speaker : Nicolas Fay** | **[The role of iconicity and embodiment to the evolution of human communication](author/nicolas-fay)** -- [Link to slides](/uploads/fay-slides.pdf) |
 | **10:00 - 10:45** | **Session 1** | **Mental Models** |
 |  | Rita Sevastjanova and Mennatallah El-Assady | [Beware the Rationalization Trap! When Language Model Explainability Diverges from our Mental Models of Language](/uploads/CHAI-22_paper_8110.pdf) | 
 |  | Qiaosi Wang and Ashok K. Goel | [Mutual Theory of Mind for Human-AI Communication](/uploads/CHAI-22_paper_9163.pdf) |
@@ -31,4 +31,4 @@ design:
 | 15:00 - 15:30	| *Coffee Break*	| |
 | **15:30 - 16:00** | **Session 2** | **Machine Learning and Natural Language Processing (Continued)**
 | | Sylwia Majchrowska, Marta Plantykow and Milena Olech | [Handling sign language transcription system with the computer-friendly numerical multilabels](/uploads/CHAI-22_paper_8908.pdf) | 
-| **16:00 - 17:00**	|  **Invited Speaker : Mark Riedl** | **[Automated Story Generation as a Lens for Fundamental Artificial Intelligence](author/mark-riedl)** |
+| **16:00 - 17:00**	|  **Invited Speaker : Mark Riedl** | **[Automated Story Generation as a Lens for Fundamental Artificial Intelligence](author/mark-riedl)** -- [Link to slides](uploads/riedl-slides.pdf)|
