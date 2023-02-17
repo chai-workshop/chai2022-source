@@ -25,3 +25,11 @@ main:
   - name: Organizers
     url: /#organizers
     weight: 70
+  - name: Previous Editions
+    identifier: previous
+    url: previous-editions/
+    weight: 200
+  - name: CHAI@IJCAI-ECAI2022
+    parent: previous
+    url: previous-editions/2022
+    weight: 10
