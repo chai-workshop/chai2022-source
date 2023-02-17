@@ -9,8 +9,8 @@ weight: 10  # Order that this section will appear.
 title: |
   CHAI Workshop
   
-  July 24, 2022
-hero_media: ijcai.jpg
+  August 2023
+hero_media: york.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'

@@ -7,14 +7,14 @@ main:
   - name: Home
     url: /#title
     weight: 10
+  - name: Workshop Format
+    url: /#workshop-format
+    weight: 20
   - name: Call for Contributions
     url: /#call-papers
-    weight: 20
+    weight: 30
   - name: Important Dates
     url: /#dates
-    weight: 30
-  - name: Accepted Papers
-    url: /#accepted-papers
     weight: 40
   - name: Invited Speakers
     url: /#speakers

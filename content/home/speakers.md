@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Our Invited Speakers
+title: Our Invited Speaker
 subtitle:
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Speakers
+  - Speakers-2023
 design:
   show_interests: false
   show_role: true
@@ -25,3 +25,4 @@ design:
 ---
 <br/>
 <br/>
+TBD
