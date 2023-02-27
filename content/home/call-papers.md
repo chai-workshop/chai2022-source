@@ -13,7 +13,7 @@ design:
 <br />
 Human interactions with AI systems are becoming part of our everyday life. If designed and developed efficiently, these interactions have great potential in enhancing human work, abilities, and well-being. Communication, here the iterative process of establishing shared meaning, is a crucial aspect of successful interaction and has been studied for years, from HCI, AI, and cognitive sciences points of view, among others.
 
-We welcome position papers (8 pages maximum, formatted in [Springer LNCS format](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0), templates available for [LaTeX](https://www.interact2021.org/templates/llncs2e.zip) and [Word](https://www.interact2021.org/templates/splnproc1703.zip). 
+We welcome position papers (8 pages maximum, formatted in [Springer LNCS format](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0), templates available for [LaTeX](https://www.interact2021.org/templates/llncs2e.zip) and [Word](https://www.interact2021.org/templates/splnproc1703.zip). Submissions will be done through EasyChair (link available soon). 
 
 Each paper must **clearly state** one of two points of discussion that the participant would like to address during the workshop. Papers will be reviewed by the organizing committee based on their relevance to the workshop topics and interest in encouraging fruitful discussion. 
 
