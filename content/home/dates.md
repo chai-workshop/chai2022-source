@@ -11,6 +11,8 @@ design:
   columns: '2'
 ---
 
-TBD
+- Paper deadline: May 5th, 2023
+- Notification: May 19th, 2023
+- Workshop: Between August 28th and September 1st, 2023 (TBD)
 
 Note: **all deadlines are UTC-12**
