@@ -11,6 +11,7 @@ title: |
   
   August 2023
 hero_media: york.jpg
+alt_text: "A view of York University with the Interact Logo on top of it"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'

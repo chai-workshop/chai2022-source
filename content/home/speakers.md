@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Our Invited Speaker
-subtitle:
+title: Our Invited Talk
+subtitle: "Machine Talk: How Artificial Language Technologies Come to Flatten Human Experiences"
 
 content:
   # Choose which groups/teams of users to display.
@@ -25,4 +25,3 @@ design:
 ---
 <br/>
 <br/>
-TBD
