@@ -22,6 +22,8 @@ design:
 
 <br>
 
+**Unfortunately, the CHAI workshop has been cancelled for 2023.** We will come back in 2024, hope to see you there! 
+
 **Welcome to the Communication in Human-AI Interaction Workshop**. 
 
 <small>
