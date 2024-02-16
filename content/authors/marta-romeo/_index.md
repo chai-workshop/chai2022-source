@@ -11,13 +11,13 @@ role: Assistant Professor in Human-Robot Interaction, Heriot-Watt University, Un
 # Organizations/Affiliations
 
 # Short bio (displayed in user profile at end of posts)
-interests:
-- Human-robot interaction
-- Human behaviour understanding
-- Social robotics
-- Assistive technologies
-- Affective computing
-- Multimodal interaction.
+#interests:
+#- Human-robot interaction
+#- Human behaviour understanding
+#- Social robotics
+#- Assistive technologies
+#- Affective computing
+#- Multimodal interaction.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,6 +49,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Organizers-2023
+- Organizers-2024
 
 weight: 30
 ---

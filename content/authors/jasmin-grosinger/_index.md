@@ -41,6 +41,7 @@ highlight_name: false
 user_groups:
 - Organizers
 - Organizers-2023
+- Organizers-2024
 
 weight: 20
 ---

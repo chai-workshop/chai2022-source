@@ -11,10 +11,10 @@ role: Professor in of Human-Computer Interaction, Umeå University, Sweden
 # Organizations/Affiliations
 
 # Short bio (displayed in user profile at end of posts)
-interests:
-- HCI theory
-- User research methods
-- Human-robot interaction.
+#interests:
+#- HCI theory
+#- User research methods
+#- Human-robot interaction.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,7 +46,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Organizers-2023
+- Organizers-2024
 
-weight: 40
+weight: 60
 ---
 Victor Kaptelinin is professor of HCI at Umeå University, Sweden. His research interests include HCI theory, activity-centric computing, robotic telepresence, and social perception of intelligent agents. His current research focuses on perceived politeness and fairness in multi-user interaction with embodied intelligent agents. Victor has organized workshops at CHI, DIS, and ECCE.

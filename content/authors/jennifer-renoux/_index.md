@@ -13,11 +13,6 @@ role: Researcher in Artificial Intelligence, Örebro University, Sweden
 # Short bio (displayed in user profile at end of posts)
 bio: Lorem ipsum
 
-interests:
-- Communication Planning
-- Human-Machine Teams
-- Multi-Agent Systems
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -52,6 +47,7 @@ highlight_name: false
 user_groups:
 - Organizers
 - Organizers-2023
+- Organizers-2024
 
 weight: 10
 ---

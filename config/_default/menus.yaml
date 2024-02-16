@@ -5,13 +5,13 @@
 
 main:
   - name: Home
-    url: /#title
+    url: /#top
     weight: 10
+  - name: Call for Participation
+    url: /#call
+    weight: 20
   - name: Workshop Format
     url: /#workshop-format
-    weight: 20
-  - name: Call for Contributions
-    url: /#call-papers
     weight: 30
   - name: Important Dates
     url: /#dates
