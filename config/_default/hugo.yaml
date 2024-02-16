@@ -61,7 +61,6 @@ security:
   funcs:
     getenv:
       - ^HUGO_
-      - ^WC_
-      - ^WC_POST_CSS
+      - ^CI$
 sitemap:
   _merge: deep
