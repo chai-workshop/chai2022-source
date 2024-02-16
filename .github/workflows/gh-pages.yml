@@ -19,7 +19,7 @@ jobs:
     - name: Hugo Deploy GitHub Pages
       uses: benmatselby/hugo-deploy-gh-pages@main
       env:
-        HUGO_VERSION: 0.94.0
+        HUGO_VERSION: 0.122.0
         TARGET_REPO: chai-workshop/chai-workshop.github.io
         TOKEN: ${{ secrets.GH_PAGES_DEPLOY }}
         GO_VERSION: 1.17.8
