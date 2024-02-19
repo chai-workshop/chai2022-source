@@ -6,7 +6,7 @@ title: Victor Kaptelinin
 superuser: false
 
 # Role/position
-role: Professor in of Human-Computer Interaction, Umeå University, Sweden
+role: Professor in Human-Computer Interaction, Umeå University, Sweden
 
 # Organizations/Affiliations
 
