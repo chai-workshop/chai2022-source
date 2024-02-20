@@ -6,7 +6,7 @@ title: Kim Baraka
 superuser: false
 
 # Role/position
-role: Assistant Professor, Vrije University Amsterdam, The Netherland
+role: Assistant Professor, Free University (VU) Amsterdam, The Netherland
 
 # Organizations/Affiliations
 
