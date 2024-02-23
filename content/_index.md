@@ -84,12 +84,12 @@ sections:
         
       
   
-  - block: markdown
+  - block: people
     id: speakers
     content:
       title: Our Invited Speaker
-      text: |
-        TBD
+      user_groups:
+        - Speakers-2024
 
   - block: markdown
     id: schedule
