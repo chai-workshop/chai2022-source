@@ -33,9 +33,9 @@ sections:
       text: |
         Human Interactions with AI systems are becoming part of our everyday life. If designed and developed efficiently, these interactions have great potential in enhancing human work, abilities, and well-being. In this workshop, we decide to take the particular viewpoint in which AI systems are not merely a tool for expression or communication, but in which they take the role of ``communicators'', meaning systems **with** which humans create shared meaning. This shift creates many new challenges and opportunities to design new ways for humans and AI systems to interact. For instance, such AI communicators may have the agency to initiate communication interactions, and should contribute to such interactions in an efficient way. 
         <br>
-        We welcome papers (6 pages excluding references) formatted using the [IOS formatting guidelines](https://www.iospress.com/book-article-instructions). Submissions will be done through [EasyChair](https://easychair.org/conferences/?conf=chai2024). Papers will be reviewed by the organizing committee based on their relevance to the workshop topics and interest in encouraging fruitful discussion.
+        We welcome short papers (6 pages excluding references) formatted using the [IOS formatting guidelines](https://www.iospress.com/book-article-instructions). Submissions will be done through [EasyChair](https://easychair.org/conferences/?conf=chai2024). Papers will be reviewed by the organizing committee based on their relevance to the workshop topics and interest in encouraging fruitful discussion.
         <br>
-        We strongly encourage authors of position papers to follow the [SIGCHI accessibility guidelines](https://sigchi.org/conferences/author-resources/accessibility-guide/).
+        We strongly encourage authors of papers to follow the [SIGCHI accessibility guidelines](https://sigchi.org/conferences/author-resources/accessibility-guide/).
         <br>
         Accepted papers will be published with [CEUR-WS](https://ceur-ws.org/), unless authors specify that they wish for the paper not be publicly available (request can be done by sending an email to jennifer.renoux@oru.se after notification of acceptance). 
 
