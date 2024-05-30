@@ -43,4 +43,11 @@ highlight_name: false
 user_groups:
 - Speakers-2024
 ---
+**Title**: "Voices from the future: creating appropriate verbal and nonverbal communication methods for Human-Robot Interaction"
+
+Emerging technologies, including robots, have the potential to make our lives easier, but only if we are willing to interact with them in the first place. The way that these technologies communicate with us is a crucial step in bringing technology-based transformations in our daily lives. However, communication needs to be adapted to the particular context in which the human-technology interaction takes place. In some contexts, verbal communication might be needed (e.g. a robot receptionist or tour guide), but in other contexts nonverbal communication might be not only sufficient, but also expected and more efficient (e.g. a delivery robot communicating its intended trajectory). In this talk, I will share some insights from research that I have been conducting on communication for both "intentional" and "unintentional" human-robot interaction.
+
+<br/>
+
+**Short Bio**
 Ilaria Torre is an Assistant Professor in Human-Robot Interaction at Chalmers University of Technology. Previously, she was a postdoctoral researcher at KTH Royal Institute of Technology and a Marie Skłodowska-Curie postdoctoral fellow at Trinity College Dublin, after obtaining her PhD from the University of Plymouth in 2017. Her research centers around improving communication between humans and robots. This includes both verbal (e.g. designing appropriate voices for robots) and nonverbal communication (e.g. investigating how sounds or other nonverbal signals can intuitively communicate information in cases where the robot cannot, or should not, use language). 

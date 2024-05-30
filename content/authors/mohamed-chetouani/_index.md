@@ -32,7 +32,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Organizers
+- Organizers_2022
 ---
 <br/>
 Prof. Mohamed Chetouani is currently a Full Professor in signal processing and machine learning for human-machine interaction. He is affiliated to the PIRoS (Perception, Interaction et Robotique Sociales) research team at the Institute for Intelligent Systems and Robotics (CNRS UMR 7222), Sorbonne University (formerly Pierre and Marie Curie University). His activities cover social signal processing, social robotics and interactive machine learning with applications in psychiatry, psychology, social neuroscience and education. Since 2018, he is the coordinator of the ANIMATAS  H2020 Marie Sklodowska Curie European Training Network. Since 2019, he is the President of the Sorbonne University Ethical Committee. He was involved in several educational activities including organization of summer schools. He is member of the management board of the International AI Doctoral Academy initiated by European networks of AI excellence centers. He is member of the EU Network of Human-Centered AI. He was Program co-chair of ACM ICMI 2020. He is General Chair of VIHAR 2021 and ACM ICMI 2023.
