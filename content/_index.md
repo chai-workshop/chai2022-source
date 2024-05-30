@@ -64,12 +64,7 @@ sections:
         <br>
         <br>
         The morning will focus on networking. First participants will introduce themselves, and participants who have a position paper accepted will present it in a round of lightning talks. After the keynote and the coffee break, we will organize a poster session for participant to discover each-others research. 
-        The afternoon will be organized around a design activity, organized in three parts:
-        1. Participants discuss the main conceptual / disciplinary perspectives of their fields, indentified from contributions and previous work, and then divide themselves into working groups, each group centered around a given field.
-        2. The groups work separately, from their respective perspectives, on the design assignment. Note that the assignment will not be about producing a concrete design, but rather about how to plan the design work, identifying the most relevant issues, questions, priorities, concepts, and methods.
-        3. The groups present their visions and have a plenary discussion about how and if the different perspectives can be combined, identifying potential common research directions.
-        <br>
-        To organize and moderate the workshop and to maximize our chances of efficient discussions and results, we will make use of the framework introduced by [(Axelsson, 2021)](https://dl.acm.org/doi/10.1145/3472225) and the corresponding canvas tools. 
+        The afternoon will be organized as a World Café where participants will reflect on topics related to Communication in Human-AI Interaction. Depending on the number of participants, we will hold between three and five rounds of discussion. 
        
   - block: markdown
     id: dates
@@ -79,10 +74,10 @@ sections:
         All dates are Anywhere on Earth.
         
         - Paper submission: April 10, 2024
+        - Workshop date: June 10, 2024
         - Acceptance notification: May 2, 2024
-        - Workshop date: June 10-11, 2024 (TBD)
         
-      
+   
   
   - block: people
     id: speakers
@@ -103,8 +98,8 @@ sections:
         | **10:00 - 11:00** | Keynote                                              |
         | **11:00 - 11:30** | Coffee Break                                         |
         | **11:30 - 12:30** | Networking / Poster Session           |
-        | **13:30 - 15:30** | Design Activity                         |
         | **12:30 - 13:30** | Lunch                                      |
+        | **13:30 - 15:30** | World Café                         |
         | **15:30 - 16:00** | Coffee Break |
         | **16:00 - 16:45** | Plenary discussion                                   |
         | **16:45 - 17:00** | Wrap up                                              |
