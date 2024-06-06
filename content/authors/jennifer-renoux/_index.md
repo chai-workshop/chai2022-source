@@ -6,7 +6,7 @@ title: Jennifer Renoux
 superuser: true
 
 # Role/position
-role: Researcher in Artificial Intelligence, Örebro University, Sweden
+role: Researcher in Human-AI Interaction, Örebro University, Sweden
 
 # Organizations/Affiliations
 
