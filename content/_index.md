@@ -93,13 +93,13 @@ sections:
       text: |
         | Time              | Activity                                             |
         |:-----------------:|:----------------------------------------------------:|
-        | **09:00 - 09:15** | Welcome and presentation of the workshop goal        |
-        | **09:15 - 10:00** | Introduction Rounds + Lightning talks |
-        | **10:00 - 11:00** | Keynote                                              |
-        | **11:00 - 11:30** | Coffee Break                                         |
-        | **11:30 - 12:30** | Networking / Poster Session           |
-        | **12:30 - 13:30** | Lunch                                      |
-        | **13:30 - 15:30** | World Café                         |
+        | **09:00 - 09:10** | Welcome and presentation of the workshop goal        |
+        | **09:10 - 09:30** | Introduction Rounds + Lightning talks |
+        | **09:30 - 10:30** | Keynote                                              |
+        | **10:30 - 11:00** | Coffee Break                                         |
+        | **11:00 - 13:00** | Networking / Poster Session           |
+        | **13:00 - 14:00** | Lunch                                      |
+        | **14:00 - 15:30** | World Café                         |
         | **15:30 - 16:00** | Coffee Break |
         | **16:00 - 16:45** | Plenary discussion                                   |
         | **16:45 - 17:00** | Wrap up                                              |
